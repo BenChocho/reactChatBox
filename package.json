@@ -1,7 +1,8 @@
 {
-  "name": "chatBox",
+  "name": "reactChatBox",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://benchocho.github.io/reactChatBox/",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
@@ -18,6 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
 }
