@@ -2,7 +2,7 @@
   "name": "reactChatBox",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://benchocho.github.io/reactChatBox/",
+  "homepage": "https://benchocho.github.io/reactChatBox/public/index.html",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
