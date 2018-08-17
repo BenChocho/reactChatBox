@@ -2,12 +2,12 @@
   "name": "reactChatBox",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://benchocho.github.io/reactChatBox/",
+  "homepage": "https://benchocho.github.io/",
   "devDependencies": {
+    "gh-pages": "^1.2.0",
     "react-scripts": "0.7.0"
   },
   "dependencies": {
-    "gh-pages": "^1.2.0",
     "marked": "0.3.6",
     "re-base": "2.3.0",
     "react": "^15.4.2",
