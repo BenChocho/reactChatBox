@@ -20,7 +20,7 @@ class Connexion extends React.Component {
                         required
                         ref={(input) => {this.pseudoInput = input}}
                     />
-                    <button>Let's fucking go !</button>
+                    <button>'Go !</button>
                 </form>
             </div>
         )
